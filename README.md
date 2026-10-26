@@ -2,10 +2,14 @@
 
 A responsive personal portfolio highlighting my learning journey and project work across **Data Analytics, Business Analysis, and Generative AI**.
 
-## Live portfolio
-- **Website:** https://makarand-patil-data.hatchable.site
-- **GitHub:** https://github.com/Makarandp-ML
-- **LinkedIn:** https://www.linkedin.com/in/makarandrpatil/
+## Portfolio preview
+
+[![View my portfolio](https://image.thum.io/get/width/1200/crop/800/noanimate/https://makarand-patil-data.hatchable.site)](https://makarand-patil-data.hatchable.site)
+
+**[View Live Portfolio →](https://makarand-patil-data.hatchable.site)**
+
+[![GitHub repository](https://img.shields.io/badge/GitHub-Portfolio%20Source-181717?logo=github)](https://github.com/Makarandp-ML/makarand-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/makarandrpatil/)
 
 ## Featured projects
 - **N100 Financial Intelligence Platform** — company fundamentals, financial KPIs, peer comparisons, screening, and historical trends.
