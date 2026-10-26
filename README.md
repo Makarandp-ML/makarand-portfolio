@@ -4,7 +4,7 @@ A responsive personal portfolio highlighting my learning journey and project wor
 
 ## Portfolio Dashboard
 
-[![Makarand Patil Portfolio Dashboard](https://image.thum.io/get/width/1200/crop/700/noanimate/https://makarand-patil-data.hatchable.site)](https://makarand-patil-data.hatchable.site)
+[![Makarand Patil Portfolio Dashboard](https://image.thum.io/get/width/1200/crop/700/noanimate/https://makarand-patil-data.hatchable.site)](https://github.com/Makarandp-ML/makarand-portfolio)
 
 [![GitHub repository](https://img.shields.io/badge/GitHub-Portfolio%20Source-181717?logo=github)](https://github.com/Makarandp-ML/makarand-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/makarandrpatil/)
